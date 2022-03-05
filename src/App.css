@@ -44,7 +44,7 @@
 }
 .singlelist{
     display: flex;
-    max-width: 1920px;
+    max-width: 1900px;
     width: 100%;
     flex-wrap: wrap;
 }
